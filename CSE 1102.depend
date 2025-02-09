@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1738222153 source:c:\users\asus\desktop\cse 1102\main.c
+	"headers.h"
+	"functions.h"
+
+1738220482 c:\users\asus\desktop\cse 1102\functions.h
+
+1738222153 source:c:\users\asus\desktop\cse 1102\view_list.c
+	"headers.h"
+	"functions.h"
+
+1738222166 source:c:\users\asus\desktop\cse 1102\new_entry.c
+	"headers.h"
+	"functions.h"
+
+1738222153 source:c:\users\asus\desktop\cse 1102\menu.c
+	"headers.h"
+	"functions.h"
+
+1738222153 source:c:\users\asus\desktop\cse 1102\exit_code.c
+	"headers.h"
+	"functions.h"
+
+1738222153 source:c:\users\asus\desktop\cse 1102\edit.c
+	"headers.h"
+	"functions.h"
+
+1738222153 source:c:\users\asus\desktop\cse 1102\erase.c
+	"headers.h"
+	"functions.h"
+
+1737212456 source:c:\users\asus\desktop\cse 1102\view.c
+
+1738222153 source:c:\users\asus\desktop\cse 1102\details.c
+	"headers.h"
+	"functions.h"
+
+1738163182 source:c:\users\asus\desktop\cse 1102\choice.c
+	"headers.h"
+	"functions.h"
+
+1738228496 source:c:\users\asus\desktop\cse 1102\delay.c
+	"headers.h"
+	"functions.h"
+
+1738220461 c:\users\asus\desktop\cse 1102\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"functions.h"
+
+1738226537 source:c:\users\asus\desktop\cse 1102\admin_login.c
+	"headers.h"
+	"functions.h"
+
+1738220502 source:c:\users\asus\desktop\cse 1102\loginpage.c
+	"headers.h"
+	"functions.h"
+
+1738226450 source:c:\users\asus\desktop\cse 1102\stud_login.c
+	"headers.h"
+	"functions.h"
+
+1738222153 source:c:\users\asus\desktop\cse 1102\stud_menu.c
+	"headers.h"
+	"functions.h"
+
+1737559129 source:c:\users\asus\desktop\cse 1102\admin_choice.c
+	"headers.h"
+	"functions.h"
+
+1737559129 source:c:\users\asus\desktop\hall-duplicate\admin_choice.c
+	"headers.h"
+	"functions.h"
+
+1738040981 c:\users\asus\desktop\hall-duplicate\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"functions.h"
+
+1738163865 c:\users\asus\desktop\hall-duplicate\functions.h
+
+1738154292 source:c:\users\asus\desktop\hall-duplicate\admin_login.c
+	"headers.h"
+	"functions.h"
+
+1738163182 source:c:\users\asus\desktop\hall-duplicate\choice.c
+	"headers.h"
+	"functions.h"
+
+1737140446 source:c:\users\asus\desktop\hall-duplicate\delay.c
+	"headers.h"
+	"functions.h"
+
+1738049553 source:c:\users\asus\desktop\hall-duplicate\details.c
+	"headers.h"
+	"functions.h"
+
+1737970288 source:c:\users\asus\desktop\hall-duplicate\edit.c
+	"headers.h"
+	"functions.h"
+
+1737970021 source:c:\users\asus\desktop\hall-duplicate\erase.c
+	"headers.h"
+	"functions.h"
+
+1737971795 source:c:\users\asus\desktop\hall-duplicate\exit_code.c
+	"headers.h"
+	"functions.h"
+
+1737559165 source:c:\users\asus\desktop\hall-duplicate\loginpage.c
+	"headers.h"
+	"functions.h"
+
+1738163909 source:c:\users\asus\desktop\hall-duplicate\main.c
+	"headers.h"
+	"functions.h"
+
+1738164215 source:c:\users\asus\desktop\hall-duplicate\menu.c
+	"headers.h"
+	"functions.h"
+
+1738164214 source:c:\users\asus\desktop\hall-duplicate\stud_menu.c
+	"headers.h"
+	"functions.h"
+
+1738163986 source:c:\users\asus\desktop\hall-duplicate\view_list.c
+	"headers.h"
+	"functions.h"
+
+1738164233 source:c:\users\asus\desktop\hall-duplicate\new_entry.c
+	"headers.h"
+	"functions.h"
+
+1738156641 source:c:\users\asus\desktop\hall-duplicate\stud_login.c
+	"headers.h"
+	"functions.h"
+
